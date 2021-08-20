@@ -44,6 +44,7 @@
     </dependencies>
 
     <build>
+        <finalName>keep_HDD_alive</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
